@@ -17,11 +17,3 @@ Data Analyst focused on transforming data into clear insights and practical solu
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/yveson-brito-67346a402) • [X](https://x.com/User039300)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yveson-Brito&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yveson-Brito&layout=compact&theme=tokyonight&hide_border=true)
