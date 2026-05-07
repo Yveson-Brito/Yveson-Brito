@@ -1,32 +1,51 @@
 <h1 align="center">Hi 👋, I'm Yveson Brito</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights</h3>
+
+<h3 align="center">
+Data Analyst • AI Enthusiast • Turning Data into Insights
+</h3>
 
 <p align="center">
-  Passionate about data analysis, visualization, and business intelligence.<br>
-  Continuously learning and building analytical skills to create practical and data-driven solutions.
+Passionate about data, analytics, AI, and business intelligence.<br>
+Focused on transforming information into clear insights and practical solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Focused on **Data Analysis** and **Business Intelligence**
-- 📈 Interested in transforming data into actionable insights
-- 🧠 Currently learning more about **Big Data**, **Cloud**, and **Machine Learning**
-- 💡 Always improving technical and analytical skills
+- 📊 Data Analyst focused on analytics and visualization
+- 🤖 Interested in Artificial Intelligence and Generative AI
+- 📈 Learning more about Big Data, Machine Learning, and Automation
+- 🧠 Always improving technical and problem-solving skills
+- 💡 Passionate about data-driven decision making
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
+### Languages & Tools
+
 <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+
 <br><br>
 
+### Data & AI
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Visualization-FE7A16?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Big%20Data-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+
+<br><br>
+
+### Python Libraries
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 
 </div>
 
@@ -34,24 +53,42 @@
 
 ## 📚 Currently Learning
 
-- Advanced SQL
-- Data Visualization Best Practices
+- Advanced Data Analytics
 - Hadoop & Big Data Ecosystem
-- Machine Learning Fundamentals
-- Cloud Technologies
+- AI Agents & Prompt Engineering
+- Deep Learning Fundamentals
+- Cloud & Automation Technologies
+
+---
+
+## 🏆 Certifications & Learning
+
+- 🤖 OpenAI Academy — ChatGPT, Prompt Engineering & AI Agents
+- 📊 IBM — Data Analysis Using Python
+- 📈 IBM — Data Visualization Using Python
+- 🧠 IBM — Artificial Intelligence Fundamentals
+- 🗄️ IBM — Data Fundamentals
+- 🐘 Hadoop Foundations — Level 1
+- 💡 AI Literacy & Decision-Making
 
 ---
 
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yveson-brito" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/yveson-brito-67346a402" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://github.com/Yveson-Brito" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://x.com/User039300" target="_blank">
+<img src="https://cdn.simpleicons.org/x/white" height="40" />
 </a>
+
+<a href="https://github.com/Yveson-Brito" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
 </p>
 
 ---
@@ -68,6 +105,6 @@
 
 ---
 
-## ✨ Quote
+## ✨ Motto
 
-> “Without data, you're just another person with an opinion.” — W. Edwards Deming
+> “Transforming data into knowledge, and knowledge into impact.”
