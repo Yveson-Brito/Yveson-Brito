@@ -18,6 +18,7 @@ Focused on transforming information into clear insights and practical solutions.
 - 📈 Learning more about Big Data, Machine Learning, and Automation
 - 🧠 Always improving technical and problem-solving skills
 - 💡 Passionate about data-driven decision making
+- 🐧 Daily driver: Linux + Vim — no GUI, no distractions
 
 ---
 
@@ -25,9 +26,9 @@ Focused on transforming information into clear insights and practical solutions.
 
 <div align="center">
 
-### Languages & Tools
+### Core Tools
 
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,linux,vim,bash" />
 
 <br><br>
 
@@ -42,22 +43,35 @@ Focused on transforming information into clear insights and practical solutions.
 
 <br><br>
 
-### Python Libraries
+### Python Libraries (CLI-first)
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </div>
 
 ---
 
+## 🧠 Environment Philosophy
+
+- Editor: **Vim** — modal editing, no mouse needed
+- OS: **Linux** — terminal-centric workflow
+- Version control: **Git** via command line
+- No containers, no heavy IDEs — just the terminal and me
+
+> *“Keep it simple, keep it keyboard-driven.”*
+
+---
+
 ## 📚 Currently Learning
 
-- Advanced Data Analytics
+- Advanced Data Analytics (with Vim + Jupyter via terminal)
 - Hadoop & Big Data Ecosystem
 - AI Agents & Prompt Engineering
 - Deep Learning Fundamentals
-- Cloud & Automation Technologies
+- Cloud & Automation (with bash scripting)
 
 ---
 
@@ -107,4 +121,4 @@ Focused on transforming information into clear insights and practical solutions.
 
 ## ✨ Motto
 
-> “Transforming data into knowledge, and knowledge into impact.”
+> *“Transforming data into knowledge, and knowledge into impact — one keystroke at a time.”*
