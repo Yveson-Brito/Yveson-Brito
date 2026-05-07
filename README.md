@@ -2,8 +2,6 @@
 
 **Data Analyst • AI Enthusiast**
 
-Linux + Vim user. No bloat, just terminal.
-
 ---
 
 ## About me
