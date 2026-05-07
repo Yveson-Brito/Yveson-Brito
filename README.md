@@ -14,14 +14,6 @@ Linux + Vim user. No bloat, just terminal.
 
 ---
 
-## Certifications
-
-- IBM — Data Analysis, Visualization & AI Fundamentals
-- OpenAI Academy — Prompt Engineering & AI Agents
-- Hadoop Foundations — Level 1
-
----
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/yveson-brito-67346a402) • [X](https://x.com/User039300)
