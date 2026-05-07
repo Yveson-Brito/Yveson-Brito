@@ -16,4 +16,5 @@ Data Analyst focused on transforming data into clear insights and practical solu
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/yveson-brito-67346a402) • [X](https://x.com/User039300)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yveson-brito-67346a402)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/User039300)
