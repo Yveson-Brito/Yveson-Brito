@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yveson Brito
 
-**Data Analyst • AI Enthusiast**
+**Data Analyst**
 
 ---
 
